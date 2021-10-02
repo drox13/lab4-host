@@ -1,0 +1,24 @@
+{
+  "name": "lab5-host",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drox13/lab5-host.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drox13/lab5-host/issues"
+  },
+  "homepage": "https://github.com/drox13/lab5-host#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
